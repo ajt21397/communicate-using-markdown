@@ -17,3 +17,8 @@
 - [x] A check list 
 - [x] This item is done
 - [ ] This item is not done
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
